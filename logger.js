@@ -1,1 +1,1 @@
-module.exports = require('baldera-logger')('tera-proxy-sls')
+module.exports = require('log')('tera-proxy-sls')
